@@ -14,10 +14,6 @@ This is a React-based Courses Project built using Create React App. The app disp
 
 ---
 
-## 🖼️ Screenshot
-
-![Screenshot](./public/screenshot.png)
-
 ---
 
 ## 🛠️ Getting Started
